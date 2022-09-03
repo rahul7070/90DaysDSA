@@ -8,3 +8,30 @@ LEARNINGS
 - backtracking 
 - ArrayList
 - Stacka and Queues
+
+DAY 12 COMPLETED 
+- linked list (theories and classical problems)
+
+
+
+
+
+
+
+DAY 15 COMPLETED 
+
+
+
+
+
+
+
+DAY 20 COMPLETED 
+
+
+
+
+
+
+
+DAY 25 COMPLETD 
